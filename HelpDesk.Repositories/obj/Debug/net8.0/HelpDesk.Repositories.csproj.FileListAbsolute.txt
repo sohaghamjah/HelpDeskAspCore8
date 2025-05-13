@@ -1,0 +1,12 @@
+C:\Dot Net Core\HelpDesk\HelpDesk.Repositories\bin\Debug\net8.0\HelpDesk.Repositories.deps.json
+C:\Dot Net Core\HelpDesk\HelpDesk.Repositories\bin\Debug\net8.0\HelpDesk.Repositories.dll
+C:\Dot Net Core\HelpDesk\HelpDesk.Repositories\bin\Debug\net8.0\HelpDesk.Repositories.pdb
+C:\Dot Net Core\HelpDesk\HelpDesk.Repositories\obj\Debug\net8.0\HelpDesk.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dot Net Core\HelpDesk\HelpDesk.Repositories\obj\Debug\net8.0\HelpDesk.Repositories.AssemblyInfoInputs.cache
+C:\Dot Net Core\HelpDesk\HelpDesk.Repositories\obj\Debug\net8.0\HelpDesk.Repositories.AssemblyInfo.cs
+C:\Dot Net Core\HelpDesk\HelpDesk.Repositories\obj\Debug\net8.0\HelpDesk.Repositories.csproj.CoreCompileInputs.cache
+C:\Dot Net Core\HelpDesk\HelpDesk.Repositories\obj\Debug\net8.0\HelpDesk.Repositories.sourcelink.json
+C:\Dot Net Core\HelpDesk\HelpDesk.Repositories\obj\Debug\net8.0\HelpDesk.Repositories.dll
+C:\Dot Net Core\HelpDesk\HelpDesk.Repositories\obj\Debug\net8.0\refint\HelpDesk.Repositories.dll
+C:\Dot Net Core\HelpDesk\HelpDesk.Repositories\obj\Debug\net8.0\HelpDesk.Repositories.pdb
+C:\Dot Net Core\HelpDesk\HelpDesk.Repositories\obj\Debug\net8.0\ref\HelpDesk.Repositories.dll

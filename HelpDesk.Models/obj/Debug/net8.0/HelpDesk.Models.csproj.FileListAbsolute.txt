@@ -1,0 +1,15 @@
+C:\Dot Net Core\HelpDesk\HelpDesk.Models\bin\Debug\net8.0\HelpDesk.Models.deps.json
+C:\Dot Net Core\HelpDesk\HelpDesk.Models\bin\Debug\net8.0\HelpDesk.Models.dll
+C:\Dot Net Core\HelpDesk\HelpDesk.Models\bin\Debug\net8.0\HelpDesk.Models.pdb
+C:\Dot Net Core\HelpDesk\HelpDesk.Models\obj\Debug\net8.0\HelpDesk.Models.csproj.AssemblyReference.cache
+C:\Dot Net Core\HelpDesk\HelpDesk.Models\obj\Debug\net8.0\HelpDesk.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dot Net Core\HelpDesk\HelpDesk.Models\obj\Debug\net8.0\HelpDesk.Models.AssemblyInfoInputs.cache
+C:\Dot Net Core\HelpDesk\HelpDesk.Models\obj\Debug\net8.0\HelpDesk.Models.AssemblyInfo.cs
+C:\Dot Net Core\HelpDesk\HelpDesk.Models\obj\Debug\net8.0\HelpDesk.Models.csproj.CoreCompileInputs.cache
+C:\Dot Net Core\HelpDesk\HelpDesk.Models\obj\Debug\net8.0\HelpDesk.Models.sourcelink.json
+C:\Dot Net Core\HelpDesk\HelpDesk.Models\obj\Debug\net8.0\HelpDesk.Models.dll
+C:\Dot Net Core\HelpDesk\HelpDesk.Models\obj\Debug\net8.0\refint\HelpDesk.Models.dll
+C:\Dot Net Core\HelpDesk\HelpDesk.Models\obj\Debug\net8.0\HelpDesk.Models.pdb
+C:\Dot Net Core\HelpDesk\HelpDesk.Models\obj\Debug\net8.0\ref\HelpDesk.Models.dll
+C:\Dot Net Core\HelpDesk\HelpDesk.Models\bin\Debug\net8.0\HelpDesk.Models.runtimeconfig.json
+C:\Dot Net Core\HelpDesk\HelpDesk.Models\obj\Debug\net8.0\HelpDesk.Models.genruntimeconfig.cache
